@@ -15,8 +15,11 @@ footer {
     color: #07090a;
     padding: 14px 20px;
     text-decoration: none;
-    font-size: larger;
     font-family: bradley hand, cursive;
+}
+a {
+    font-size: 20px;
+/* ugh why wont you work on the nav? */
 }
 .work-me {
     border-top: 3px solid black;
@@ -26,6 +29,9 @@ footer {
   }
   body {
     background: linear-gradient( rgb(19, 98, 1),rgb(171, 179, 171));
+  }
+  *p {
+    font-size: 20px;
   }
 /* .skyset {
     height: 3000px;
@@ -48,6 +54,11 @@ footer {
 .aboutmoi {
     background-color: rgb(103, 103, 199);
     color: white;
+}
+#footocard{
+    background-color: #07090a;
+    color: white;
+    font-family: chalkduster;
 }
 /* img {
     max-height: 350px;
