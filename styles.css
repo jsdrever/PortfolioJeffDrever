@@ -1,4 +1,11 @@
-
+.tree-beard {
+    height: 500px;
+    width: 100%;
+    margin-top: 0px;
+    background-image: url("envy-photo/pretty-green.jpg");
+    background-size: cover;
+    background-position: center;
+  }
 
 footer {
     border-top: 3px solid black;
