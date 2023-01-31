@@ -17,6 +17,9 @@ footer {
     text-decoration: none;
     font-family: bradley hand, cursive;
 }
+#liam {
+    font-size: 15px;
+}
 a {
     font-size: 20px;
 /* ugh why wont you work on the nav? */
@@ -30,9 +33,18 @@ a {
   body {
     background: linear-gradient( rgb(19, 98, 1),rgb(171, 179, 171));
   }
-  *p {
+  #pepe {
     font-size: 20px;
   }
+  #papa {
+    font-size: 30px;
+  }
+
+  /* .card:hover  {
+    transform: scale(1.2);
+    transform: translateX(5); I want this to slide to the right or just center all the content
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+} */
 /* .skyset {
     height: 3000px;
     width: 100%;
