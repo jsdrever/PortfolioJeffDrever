@@ -1,0 +1,9 @@
+main {
+    height: 1600px;
+    width: 100%;
+    margin-top: 0px;
+    
+    background-size: cover;
+    background-position: center;
+    background-image: url(/images/resume.png);
+}
