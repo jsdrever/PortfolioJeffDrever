@@ -1,6 +1,5 @@
-.stay-nav {
-    position: fixed;
-    /* why doesnt this work? */
+
+
+footer {
+    border-top: 3px solid black;
 }
-
-
