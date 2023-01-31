@@ -10,18 +10,32 @@
 footer {
     border-top: 3px solid black;
 }
+.navi {
+    background-color: rgb(113, 173, 23);
+    color: #07090a;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-size: larger;
+    font-family: bradley hand, cursive;
+}
+.work-me {
+    border-top: 3px solid black;
+}
 .fancy {
     color:#151413;
   }
-.skyset {
-    height: 300px;
+  body {
+    background: linear-gradient( rgb(19, 98, 1),rgb(171, 179, 171));
+  }
+/* .skyset {
+    height: 3000px;
     width: 100%;
     background-image: url("images/skySunsetter\ copy\ 2.jpeg");
     background-size: cover;
     background-position: center;
     border-top: 5px solid rgb(100, 97, 97);
     border-bottom: 5px solid rgb(15, 14, 14);
-}
+} */
 .stumpy {
     height: 300px;
     width: 100%;
@@ -30,4 +44,44 @@ footer {
     background-position: center;
     border-top: 5px solid rgb(100, 97, 97);
     border-bottom: 5px solid rgb(15, 14, 14);
+}
+.aboutmoi {
+    background-color: rgb(103, 103, 199);
+    color: white;
+}
+/* img {
+    max-height: 350px;
+  }
+@media screen and (min-width: 880px)  {
+  img {
+      max-height: 500px;
+      max-width: 400px;
+      background-color: #9ad852;
+    }
+    
+}
+@media screen and (min-width: 1024px) {
+   img {
+      max-height: 350px;
+      max-width: 200px;
+      background-color: #609b60;
+    }
+}
+@media screen and (min-width: 1624px) {
+  img {
+      max-height: 350px;
+      max-width: 200px;
+      background-color: #244423;
+  }
+} */
+footer {
+    background-color: rgb(38, 68, 35);
+    color: white;
+}
+footer a{
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin: 5px 5px 5px 5px;
+
 }
