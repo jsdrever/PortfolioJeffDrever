@@ -27,8 +27,20 @@ a {
     font-size: 20px;
 /* ugh why wont you work on the nav? */
 }
-.work-me {
-    border-top: 3px solid black;
+#work-me {
+    border-top: 13px solid black;
+    margin-top: 10px;
+    padding:50px;
+}
+.work-header {
+  font-size: 40px;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  text-align: center;
+  border-bottom: 5px solid black;
+  padding: 25px;
+  font-family: chalkduster;
 }
 .fancy {
     color:#151413;
@@ -43,11 +55,12 @@ a {
     font-size: 30px;
   }
 
-  /* .card:hover  {
+  .card:hover  {
     transform: scale(1.2);
-    transform: translateX(5); I want this to slide to the right or just center all the content
+    transform: translateX(5); 
+    /* I want this to slide to the right or just center all the content */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
-} */
+}
 /* .skyset {
     height: 3000px;
     width: 100%;
